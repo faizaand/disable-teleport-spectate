@@ -1,0 +1,7 @@
+name: Disable-Spectator-Teleport
+version: @version@
+main: dev.faizaan.disablespectatorteleport.DisableSpectatorTeleport
+api-version: 1.13
+authors: [Faizaan Datoo]
+description: Disallows spectators from teleporting.
+website: https://faizaan.dev
